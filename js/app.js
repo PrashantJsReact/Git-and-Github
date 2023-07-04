@@ -7,7 +7,6 @@ console.log(
   'while installing github it prompted for writing name email but i kept default so this problem happened and it changed my previous global config file'
 );
 
-
 // function for javascript bugfix/v1.0.1
 // some function name
 
@@ -15,7 +14,6 @@ console.log(
 // function expression
 // anonymous function
 // aero function
-
 
 // all array iterators
 // forEach
@@ -27,3 +25,6 @@ console.log(
 // every
 // reduce
 
+function add(a, b) {
+  return a + b;
+}
