@@ -22,3 +22,8 @@ console.log(
 // some
 // every
 // reduce
+
+// function declaration
+// function expression
+// anonymous function
+// aero function
