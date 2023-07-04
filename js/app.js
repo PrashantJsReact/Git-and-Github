@@ -32,3 +32,7 @@ function add(a, b) {
 // Next.js
 // Angular
 // Vue.js
+
+function multiply(a, b){
+    return a * b;
+}
