@@ -10,3 +10,20 @@ console.log(
 
 // function for javascript bugfix/v1.0.1
 // some function name
+
+// function declaration
+// function expression
+// anonymous function
+// aero function
+
+
+// all array iterators
+// forEach
+// filter
+// map
+// find
+// findIndex
+// some
+// every
+// reduce
+
