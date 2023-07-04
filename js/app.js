@@ -10,3 +10,15 @@ console.log(
 
 // function for javascript bugfix/v1.0.1
 // some function name
+
+
+
+// all array iterators
+// forEach
+// filter
+// map
+// find
+// findIndex
+// some
+// every
+// reduce
