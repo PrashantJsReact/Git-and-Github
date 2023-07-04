@@ -9,3 +9,4 @@ console.log(
 
 
 // function for javascript bugfix/v1.0.1
+// some function name
