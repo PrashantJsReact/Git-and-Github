@@ -11,6 +11,10 @@ console.log(
 // function for javascript bugfix/v1.0.1
 // some function name
 
+// function declaration
+// function expression
+// anonymous function
+// aero function
 
 
 // all array iterators
@@ -23,7 +27,3 @@ console.log(
 // every
 // reduce
 
-// function declaration
-// function expression
-// anonymous function
-// aero function
